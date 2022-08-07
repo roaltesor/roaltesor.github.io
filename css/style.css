@@ -1,0 +1,79 @@
+/*https://colorhunt.co/palette/f0ebe3e4dccf7d9d9c576f72*/
+
+* {
+    background-color:rgb(240, 235, 227);
+    font-family:Monaco;
+}
+
+/* INTRODUCCIÓN > HEADER */
+
+
+nav > a {
+    border: 2px solid rgb(87, 111, 114);
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 3px; 
+    margin-inline: 5x;
+    color:rgb(125, 157, 156);
+    font-weight: bold;
+}
+
+h2 {
+    color:rgb(125, 157, 156);
+    text-shadow: 2px 2px rgb(87, 111, 114);
+    font-size: 90px;
+    line-height: 100px; 
+    text-align: center;
+}
+
+.intro {
+    color:rgb(87, 111, 114);
+    font-size: 25px;
+    line-height:35px;
+    text-align: center;
+}
+
+header > img { 
+    width: 70px;
+    margin-inline: 60px;
+    margin-left: 19%;
+} 
+
+.dificil {  
+    width: 77px;
+}
+
+/* PRESENTACIÓN */
+
+.presentacion {
+    color: rgb(87, 111, 114);
+    font-size: 20px;
+    line-height: 25px;
+    margin-right: 45%;
+    margin-left: 15px;
+}
+
+#avatar {
+    width: 40%;
+    float: right;
+    margin-top: -20%;
+}
+
+
+/*CONTACTO*/
+
+footer {
+    color:rgb(87, 111, 114);
+    font-size: 50px;
+    text-align: center;
+}
+
+
+#contacto{
+    font-size: medium;
+    width : 150px;
+    padding: 0;
+    margin-left: 43%;
+    box-sizing: border-box;
+}
